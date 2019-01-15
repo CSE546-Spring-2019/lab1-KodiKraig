@@ -1,5 +1,5 @@
-#Count
-##Author
+# Count
+## Author
 Cody Craig
 craig.500@osu.edu
 

@@ -6,7 +6,7 @@ This program searches a input file for the number of occurrences of a given stri
 - craig.500@osu.edu
 
 ### Compile
-Navigate into the working directory and run the make file
+Navigate into the lab1 working directory and run the make file
 ```
 make
 ```
